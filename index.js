@@ -26,7 +26,7 @@ bot.on("inline_query", async (query) => {
       title: "🧧 新年红包",
       description: "点击打开烟花 + 撒钱特效",
       input_message_content: {
-        message_text: "🧧🧨 新年红包来啦！\n👇 点击下方打开"
+        message_text: "🧧🧨 新年红包来啦！\n 小浩 给大家拜年啦～ \n 祝大家 新年快乐，万事如意 "
       },
       reply_markup: {
         inline_keyboard: [
