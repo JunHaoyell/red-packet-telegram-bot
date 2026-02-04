@@ -33,9 +33,7 @@ bot.on("inline_query", async (query) => {
           [
             {
               text: "🎉 打开红包",
-              web_app: {
-                url: WEBAPP_URL
-              }
+              url: WEBAPP_URL
             }
           ]
         ]
